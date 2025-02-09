@@ -8,3 +8,5 @@
 Отчёты о деффекте:[Ссылка](https://github.com/Sayrus444/Web/blob/main/Issues.xlsx)
 
 Тестовый прогон:[Ссылка](https://github.com/Sayrus444/Web/blob/main/G9-Express%2Brun%2B2024_12_29.pdf)
+
+Перехват и изменение трафика на смартфоне:[Ссылка](https://github.com/Sayrus444/Web/blob/main/mobile.mp4)
