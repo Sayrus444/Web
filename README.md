@@ -1,12 +1,14 @@
 # Тестирование веб-приложений
-Тест-план для приложения "Интернет-магазин":[Ссылка](https://docs.google.com/spreadsheets/d/1vcTr7KpM7B0gHVYm9cNtlsUFIHCgtLBjZCo7vsdohgQ/edit?gid=0#gid=0)
+Перед тестированием веб-приложения [интернет-магазина](https://qa.demoshopping.ru/) был составлен [тест-план](https://docs.google.com/spreadsheets/d/1vcTr7KpM7B0gHVYm9cNtlsUFIHCgtLBjZCo7vsdohgQ/edit?gid=0#gid=0).
 
-Чек-лист для тестирования корзины, оплаты:[Ссылка](https://docs.google.com/spreadsheets/d/122xfdvyOLz97ckxyQAR_HRWq13A1vZSstIOQSxHjIWU/edit?gid=1910260893#gid=1910260893)
+Модули регистрации, логина и каталога были протестированы ранее. Результаты представлены в репозитории [тестовая документация](https://github.com/Sayrus444/Docs).
 
-Тест-кейсы для тестирования корзины, оплаты:[Ссылка](https://app.qase.io/project/G9?suite=128&previewMode=side)
+Для модулей корзины и оплаты создан [чек-лист](https://docs.google.com/spreadsheets/d/122xfdvyOLz97ckxyQAR_HRWq13A1vZSstIOQSxHjIWU/edit?gid=1910260893#gid=1910260893).
 
-Отчёты о деффекте:[Ссылка](https://github.com/Sayrus444/Web/blob/main/Issues.xlsx)
+[Тест-кейсы](https://app.qase.io/project/G9?suite=128&previewMode=side) для тестирования корзины и оплаты.
 
-Тестовый прогон:[Ссылка](https://github.com/Sayrus444/Web/blob/main/G9-Express%2Brun%2B2024_12_29.pdf)
+Для тест-кейсов был проведен [тестовый прогон](https://github.com/Sayrus444/Web/blob/main/G9-Express%2Brun%2B2024_12_29.pdf).
 
-Перехват и изменение трафика в браузере:[Ссылка](https://github.com/Sayrus444/Web/blob/main/web.mp4)
+Обнаруженные дефекты задокументированы в системе управления тестированием QASE. Информация о выявленных дефектах представлена в [отчёте о деффектах](https://github.com/Sayrus444/Web/blob/main/Issues.xlsx).
+
+Перехват и изменение трафика в браузере записан на [видео](https://github.com/Sayrus444/Web/blob/main/web.mp4).
